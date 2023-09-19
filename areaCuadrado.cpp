@@ -9,5 +9,6 @@ int n1, area;
 
   area = n1 * n1;
   printf("\nEl area de el cuadrado es: %d", area);
+  printf("\nSe anexa linea para ver nueva version en programa");
   return 0;
 }
